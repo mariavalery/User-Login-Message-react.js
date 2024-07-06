@@ -9,3 +9,5 @@ const Logout = props => {
     </button>
   )
 }
+
+export default Logout
